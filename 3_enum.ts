@@ -16,4 +16,4 @@ enum SocialMedia {
 }
 
 const social = SocialMedia.INSTAGRAM
-console.log(social)
+console.log(social) 
